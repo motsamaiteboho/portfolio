@@ -1,0 +1,2 @@
+export const OPENSUBMENU = "OPENSUBMENU";
+export const CLOSESUBMENU = "CLOSESUBMENU"
